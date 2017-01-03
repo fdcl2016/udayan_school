@@ -1,0 +1,51 @@
+.fdclspan6{
+    height: 40px;
+}
+.fdclcenter{
+    text-align: center;
+}
+.fdcl_image_profile{
+    height: 120px;
+    width: 120px;
+}
+
+.fdcl_image_profile_dir{
+    height: 140px;
+    width: 140px;
+}
+.fdcl_content_profile{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.fdcl_content_profile_routine{
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.fdcl_header_profile{
+    margin-left: 15%;
+}
+.fdcl_panel-title{
+    color: #660066;
+}
+.fdcl_panel{
+    background-color: #d0f0d0;
+}
+.fdcl_panel_sub{
+    background-color: #ededed;
+}
+.fdcl_font_sub_title{
+    font-size: large;
+}
+input{
+    height: 25px;
+}
+.fdcl_textarea_height{
+    height: 120px;
+}
+label{
+    font-weight: bold;
+}
+.fdcl_table{
+    max-width: 300px;
+    width: 100% !important;
+}

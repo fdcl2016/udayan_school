@@ -1,0 +1,16 @@
+[13-Dec-2015 03:04:47 America/New_York] PHP Notice:  Undefined variable: db in /home/iteamsco/public_html/udayan_school/home/index.php on line 213
+[13-Dec-2015 03:04:47 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/iteamsco/public_html/udayan_school/home/index.php on line 213
+[13-Dec-2015 03:06:19 America/New_York] PHP Notice:  Undefined variable: db in /home/iteamsco/public_html/udayan_school/home/index.php on line 213
+[13-Dec-2015 03:06:19 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/iteamsco/public_html/udayan_school/home/index.php on line 213
+[13-Dec-2015 03:06:32 America/New_York] PHP Notice:  Undefined variable: db in /home/iteamsco/public_html/udayan_school/home/index.php on line 213
+[13-Dec-2015 03:06:32 America/New_York] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/iteamsco/public_html/udayan_school/home/index.php on line 213
+[16-Dec-2015 01:08:06 America/New_York] PHP Notice:  Undefined variable: news in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[16-Dec-2015 01:08:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[24-Jan-2016 06:22:26 America/New_York] PHP Notice:  Undefined variable: news in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[24-Jan-2016 06:22:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[24-Jan-2016 07:27:32 America/New_York] PHP Notice:  Undefined variable: news in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[24-Jan-2016 07:27:32 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[25-Jan-2016 02:13:44 America/New_York] PHP Notice:  Undefined variable: news in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[25-Jan-2016 02:13:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[25-Jan-2016 05:34:39 America/New_York] PHP Notice:  Undefined variable: news in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
+[25-Jan-2016 05:34:39 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/iteamsco/public_html/udayan_school/home/footer.php on line 19
